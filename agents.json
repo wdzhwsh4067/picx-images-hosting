@@ -65,9 +65,9 @@
     ],
     "agents": [
         {
-            "author": "yayoinoyume",
-            "createAt": "2024-06-09",
-            "homepage": "https://github.com/yayoinoyume",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "mysql-haoteacher",
             "meta": {
                 "avatar": "🎇",
@@ -82,9 +82,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ShinChven",
-            "createAt": "2024-06-08",
-            "homepage": "https://github.com/ShinChven",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "popular-science-writer",
             "meta": {
                 "avatar": "📖",
@@ -99,9 +99,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Starlitnightly",
-            "createAt": "2024-06-03",
-            "homepage": "https://github.com/Starlitnightly",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "academic-editor-en",
             "meta": {
                 "avatar": "😶‍🌫️",
@@ -116,9 +116,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "xbtachlb",
-            "createAt": "2024-06-03",
-            "homepage": "https://github.com/xbtachlb",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "noveltranslation",
             "meta": {
                 "avatar": "🤖",
@@ -131,9 +131,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "onekr-billy",
-            "createAt": "2024-05-31",
-            "homepage": "https://github.com/onekr-billy",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "onekr-docker-2-compose",
             "meta": {
                 "avatar": "👻",
@@ -150,9 +150,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "onekr-billy",
-            "createAt": "2024-05-31",
-            "homepage": "https://github.com/onekr-billy",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "onekr-java-2-sql",
             "meta": {
                 "avatar": "🏹",
@@ -169,9 +169,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "a562314",
-            "createAt": "2024-05-30",
-            "homepage": "https://github.com/a562314",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "history-master",
             "meta": {
                 "avatar": "📚",
@@ -189,9 +189,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "rezmeplxrf",
-            "createAt": "2024-05-28",
-            "homepage": "https://github.com/rezmeplxrf",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "dart-flutter",
             "meta": {
                 "avatar": "😅",
@@ -208,9 +208,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "johnnyqian",
-            "createAt": "2024-05-28",
-            "homepage": "https://github.com/johnnyqian",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "dotnet-expert",
             "meta": {
                 "avatar": "🌐",
@@ -232,9 +232,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-28",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "jesus-missionary",
             "meta": {
                 "avatar": "🤖",
@@ -249,9 +249,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Qinks6",
-            "createAt": "2024-05-28",
-            "homepage": "https://github.com/Qinks6",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "junior-helper",
             "meta": {
                 "avatar": "🧐",
@@ -268,9 +268,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "chrisuhg",
-            "createAt": "2024-05-28",
-            "homepage": "https://github.com/chrisuhg",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "node-js-devoloper",
             "meta": {
                 "avatar": "🤖",
@@ -287,9 +287,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "johnnyqian",
-            "createAt": "2024-05-27",
-            "homepage": "https://github.com/johnnyqian",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "praise-assistant",
             "meta": {
                 "avatar": "💯",
@@ -306,9 +306,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "tutorial0",
-            "createAt": "2024-05-27",
-            "homepage": "https://github.com/tutorial0",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "seo-helper",
             "meta": {
                 "avatar": "🔍",
@@ -323,9 +323,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "S45618",
-            "createAt": "2024-05-24",
-            "homepage": "https://github.com/S45618",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "chinese-touch-ups",
             "meta": {
                 "avatar": "💬",
@@ -342,9 +342,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "a562314",
-            "createAt": "2024-05-24",
-            "homepage": "https://github.com/a562314",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "it-system-architect",
             "meta": {
                 "avatar": "🖥️",
@@ -362,9 +362,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "CLOT-LIU",
-            "createAt": "2024-05-24",
-            "homepage": "https://github.com/CLOT-LIU",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "mcse-helper",
             "meta": {
                 "avatar": "🎮",
@@ -380,9 +380,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-24",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "philosophical-analysis",
             "meta": {
                 "avatar": "🗿",
@@ -397,9 +397,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "xenstar",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/xenstar",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "bahasa-translation",
             "meta": {
                 "avatar": "🌏",
@@ -415,9 +415,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "buddhism-master",
             "meta": {
                 "avatar": "🧘‍♂️",
@@ -433,9 +433,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "chinese-historian",
             "meta": {
                 "avatar": "📜",
@@ -449,9 +449,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "confucian-sage",
             "meta": {
                 "avatar": "🧓",
@@ -465,9 +465,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "first-principle-explain",
             "meta": {
                 "avatar": "🧠",
@@ -481,9 +481,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "barryWang12138",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/barryWang12138",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "jtbd",
             "meta": {
                 "avatar": "📋",
@@ -500,9 +500,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guoyuh",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/guoyuh",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ngs",
             "meta": {
                 "avatar": "🧬",
@@ -517,9 +517,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Yu-Xiao-Sheng",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/Yu-Xiao-Sheng",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "rust-expert",
             "meta": {
                 "avatar": "🎯",
@@ -534,9 +534,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "meimouren",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/meimouren",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "study-abroad-planning",
             "meta": {
                 "avatar": "🧑‍🎓",
@@ -553,9 +553,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "taoists",
             "meta": {
                 "avatar": "☯",
@@ -570,9 +570,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bushiwode",
-            "createAt": "2024-05-22",
-            "homepage": "https://github.com/bushiwode",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "yantugongcheng",
             "meta": {
                 "avatar": "🐕‍🦺",
@@ -589,9 +589,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "wilbeibi",
-            "createAt": "2024-05-15",
-            "homepage": "https://github.com/wilbeibi",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "aws-guru",
             "meta": {
                 "avatar": "🍌",
@@ -604,9 +604,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Firpo7",
-            "createAt": "2024-05-15",
-            "homepage": "https://github.com/Firpo7",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "linux-buddy",
             "meta": {
                 "avatar": "🐧",
@@ -621,9 +621,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Justin3go",
-            "createAt": "2024-05-15",
-            "homepage": "https://github.com/Justin3go",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "photography-critic",
             "meta": {
                 "avatar": "📷",
@@ -640,9 +640,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Firpo7",
-            "createAt": "2024-05-15",
-            "homepage": "https://github.com/Firpo7",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "python-buddy",
             "meta": {
                 "avatar": "🐍",
@@ -659,9 +659,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "xbtachlb",
-            "createAt": "2024-05-15",
-            "homepage": "https://github.com/xbtachlb",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "reading-comprehension",
             "meta": {
                 "avatar": "🧑‍🏫",
@@ -678,9 +678,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "qq916107113",
-            "createAt": "2024-05-15",
-            "homepage": "https://github.com/qq916107113",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "search-engine-optimizer",
             "meta": {
                 "avatar": "🔎",
@@ -697,9 +697,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SpeedupMaster",
-            "createAt": "2024-05-14",
-            "homepage": "https://github.com/SpeedupMaster",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "emotional-support-companion",
             "meta": {
                 "avatar": "👩🏻‍🌾",
@@ -717,9 +717,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "napokhte",
-            "createAt": "2024-05-13",
-            "homepage": "https://github.com/napokhte",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "grammarly",
             "meta": {
                 "avatar": "🧐",
@@ -733,9 +733,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SidneyLYZhang",
-            "createAt": "2024-05-13",
-            "homepage": "https://github.com/SidneyLYZhang",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "professer-siwol-sz",
             "meta": {
                 "avatar": "🎓",
@@ -752,9 +752,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "inquiry-paring0a",
-            "createAt": "2024-05-08",
-            "homepage": "https://github.com/inquiry-paring0a",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "sf-symbols-finder",
             "meta": {
                 "avatar": "🫧",
@@ -771,9 +771,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "EarlofSandwhich",
-            "createAt": "2024-05-07",
-            "homepage": "https://github.com/EarlofSandwhich",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ghostwriter-pro-ai",
             "meta": {
                 "avatar": "📖",
@@ -787,9 +787,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "yayoinoyume",
-            "createAt": "2024-05-06",
-            "homepage": "https://github.com/yayoinoyume",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "video-2-blog-assistant",
             "meta": {
                 "avatar": "📝",
@@ -804,9 +804,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "dingyufei615",
-            "createAt": "2024-05-06",
-            "homepage": "https://github.com/dingyufei615",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "wanwusheng-art",
             "meta": {
                 "avatar": "🎨",
@@ -823,9 +823,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Alcu1n",
-            "createAt": "2024-05-03",
-            "homepage": "https://github.com/Alcu1n",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ios-develop",
             "meta": {
                 "avatar": "📱",
@@ -842,9 +842,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "highseen",
-            "createAt": "2024-04-30",
-            "homepage": "https://github.com/highseen",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "verkauf-kleinanzeigen",
             "meta": {
                 "avatar": "🏷️",
@@ -859,9 +859,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MapleEve",
-            "createAt": "2024-04-26",
-            "homepage": "https://github.com/MapleEve",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gpt-4-dan-assistant",
             "meta": {
                 "avatar": "😼",
@@ -877,9 +877,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aototo",
-            "createAt": "2024-04-26",
-            "homepage": "https://github.com/aototo",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tailwind-helper",
             "meta": {
                 "avatar": "🐳",
@@ -894,9 +894,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "zcf0508",
-            "createAt": "2024-04-26",
-            "homepage": "https://github.com/zcf0508",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "yapi-ts-helper",
             "meta": {
                 "avatar": "🤖",
@@ -910,9 +910,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "y22emc2",
-            "createAt": "2024-04-15",
-            "homepage": "https://github.com/y22emc2",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "chinese-paper-polishing",
             "meta": {
                 "avatar": "📚",
@@ -927,9 +927,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "luxiangze",
-            "createAt": "2024-04-13",
-            "homepage": "https://github.com/luxiangze",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "bio-professor",
             "meta": {
                 "avatar": "🧬",
@@ -942,9 +942,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "kamilkenrich",
-            "createAt": "2024-04-13",
-            "homepage": "https://github.com/kamilkenrich",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "fortune-teller",
             "meta": {
                 "avatar": "🤯",
@@ -957,9 +957,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "cnliucheng",
-            "createAt": "2024-04-13",
-            "homepage": "https://github.com/cnliucheng",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "highschool-master",
             "meta": {
                 "avatar": "⚽",
@@ -976,9 +976,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Greasen",
-            "createAt": "2024-04-11",
-            "homepage": "https://github.com/Greasen",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "healthy-recipe-recommender",
             "meta": {
                 "avatar": "👩‍🍳",
@@ -991,9 +991,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Greasen",
-            "createAt": "2024-04-11",
-            "homepage": "https://github.com/Greasen",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "personal-weather-consultant",
             "meta": {
                 "avatar": "🥏",
@@ -1007,9 +1007,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "cokice",
-            "createAt": "2024-04-10",
-            "homepage": "https://github.com/cokice",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "profanity-assistant",
             "meta": {
                 "avatar": "🤬",
@@ -1023,9 +1023,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "infoaitek24",
-            "createAt": "2024-04-10",
-            "homepage": "https://github.com/infoaitek24",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tadz-genius",
             "meta": {
                 "avatar": "👨",
@@ -1042,9 +1042,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bingjuu",
-            "createAt": "2024-04-10",
-            "homepage": "https://github.com/bingjuu",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "with-keil-u-vision-5-c-code-explainer",
             "meta": {
                 "avatar": "🧑‍💻",
@@ -1061,9 +1061,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "YuJiaoChiu",
-            "createAt": "2024-04-09",
-            "homepage": "https://github.com/YuJiaoChiu",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "sixin-design-analysis",
             "meta": {
                 "avatar": "🤯",
@@ -1076,9 +1076,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-04-08",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "epoch-ai",
             "meta": {
                 "avatar": "🤖",
@@ -1093,9 +1093,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "etnperlong",
-            "createAt": "2024-04-06",
-            "homepage": "https://github.com/etnperlong",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "linux-shell-assistant",
             "meta": {
                 "avatar": "🐌",
@@ -1111,9 +1111,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "etnperlong",
-            "createAt": "2024-04-06",
-            "homepage": "https://github.com/etnperlong",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "shopify-developer",
             "meta": {
                 "avatar": "🖌️",
@@ -1133,9 +1133,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aaddobea",
-            "createAt": "2024-04-04",
-            "homepage": "https://github.com/aaddobea",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "title-generator",
             "meta": {
                 "avatar": "https://www.bing.com/images/create/research-logo-with-turquoise-background-should-hav/1-660e35e42e184bcc83f9ca768bd7f79d?id=kATIntNjVX7D4mXUHBACEg.I9vuM3FLMiccUl2NSQjyhg&view=detailv2&idpp=genimg&idpclose=1&thid=OIG4.49KW96NjDYXknMPzWmSM&frame=sydedg&form=SYDBIC",
@@ -1150,9 +1150,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "sangxgg",
-            "createAt": "2024-04-02",
-            "homepage": "https://github.com/sangxgg",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "encn-fy",
             "meta": {
                 "avatar": "blob:https://chat.uxone.org/27aaf686-c8b9-40f9-a46a-4cbfd1c91166",
@@ -1167,9 +1167,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "HenryWu9998",
-            "createAt": "2024-03-31",
-            "homepage": "https://github.com/HenryWu9998",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "code-anything-noproblem",
             "meta": {
                 "avatar": "👨‍💻",
@@ -1186,9 +1186,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SimoMay",
-            "createAt": "2024-03-27",
-            "homepage": "https://github.com/SimoMay",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "blood-analyst",
             "meta": {
                 "avatar": "🩺",
@@ -1205,9 +1205,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MapleEve",
-            "createAt": "2024-03-27",
-            "homepage": "https://github.com/MapleEve",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gpts-big-fart-chat",
             "meta": {
                 "avatar": "🦄",
@@ -1222,9 +1222,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MapleEve",
-            "createAt": "2024-03-27",
-            "homepage": "https://github.com/MapleEve",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "suno-music-creator",
             "meta": {
                 "avatar": "🎧",
@@ -1240,9 +1240,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "HansKing98",
-            "createAt": "2024-03-27",
-            "homepage": "https://github.com/HansKing98",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "xiaonghongshu-vision",
             "meta": {
                 "avatar": "📕",
@@ -1255,9 +1255,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "vayron",
-            "createAt": "2024-03-26",
-            "homepage": "https://github.com/vayron",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "girlfriend-subtext",
             "meta": {
                 "avatar": "🙅‍♀️",
@@ -1275,9 +1275,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "couldnice",
-            "createAt": "2024-03-26",
-            "homepage": "https://github.com/couldnice",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "question-extraction-assistant",
             "meta": {
                 "avatar": "😀",
@@ -1294,9 +1294,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "pedroespecial101",
-            "createAt": "2024-03-25",
-            "homepage": "https://github.com/pedroespecial101",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "fact-checking",
             "meta": {
                 "avatar": "💎",
@@ -1309,9 +1309,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aoocar",
-            "createAt": "2024-03-25",
-            "homepage": "https://github.com/aoocar",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "rap-writer",
             "meta": {
                 "avatar": "🎙️",
@@ -1325,9 +1325,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-03-24",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "mdx-seo",
             "meta": {
                 "avatar": "🔍",
@@ -1341,9 +1341,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "GalileoFe",
-            "createAt": "2024-03-22",
-            "homepage": "https://github.com/GalileoFe",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "claude-national-medical-master",
             "meta": {
                 "avatar": "👨‍⚕️",
@@ -1357,9 +1357,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "XUANJI233",
-            "createAt": "2024-03-22",
-            "homepage": "https://github.com/XUANJI233",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "elec-circuit-tutor-prompt",
             "meta": {
                 "avatar": "🔌",
@@ -1376,9 +1376,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "XUANJI233",
-            "createAt": "2024-03-22",
-            "homepage": "https://github.com/XUANJI233",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "translation-tutor-prompt",
             "meta": {
                 "avatar": "🎮",
@@ -1394,9 +1394,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "XUANJI233",
-            "createAt": "2024-03-21",
-            "homepage": "https://github.com/XUANJI233",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "math-tutor-prompt",
             "meta": {
                 "avatar": "📐",
@@ -1412,9 +1412,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SpeedupMaster",
-            "createAt": "2024-03-19",
-            "homepage": "https://github.com/SpeedupMaster",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "amazon-listing-copywriter",
             "meta": {
                 "avatar": "✍️",
@@ -1430,9 +1430,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "luciouskami",
-            "createAt": "2024-03-19",
-            "homepage": "https://github.com/luciouskami",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gpt-tot",
             "meta": {
                 "avatar": "🧠",
@@ -1447,9 +1447,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MapleEve",
-            "createAt": "2024-03-19",
-            "homepage": "https://github.com/MapleEve",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "user-request-research-manager",
             "meta": {
                 "avatar": "🤷",
@@ -1465,9 +1465,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccsen",
-            "createAt": "2024-03-17",
-            "homepage": "https://github.com/ccsen",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "medication-guide",
             "meta": {
                 "avatar": "💊",
@@ -1482,9 +1482,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "jjllzhang",
-            "createAt": "2024-03-17",
-            "homepage": "https://github.com/jjllzhang",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "programming-maestro",
             "meta": {
                 "avatar": "👨‍💻",
@@ -1497,9 +1497,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "checkso",
-            "createAt": "2024-03-17",
-            "homepage": "https://github.com/checkso",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "prompt-architect",
             "meta": {
                 "avatar": "🏗️",
@@ -1514,9 +1514,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "U20205588",
-            "createAt": "2024-03-17",
-            "homepage": "https://github.com/U20205588",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "prompt-gpts",
             "meta": {
                 "avatar": "😍",
@@ -1537,9 +1537,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "epochaudio",
-            "createAt": "2024-03-17",
-            "homepage": "https://github.com/epochaudio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "vocabulary-teacher",
             "meta": {
                 "avatar": "🅰️",
@@ -1554,9 +1554,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "moyuan99",
-            "createAt": "2024-03-17",
-            "homepage": "https://github.com/moyuan99",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "web-linux-helper",
             "meta": {
                 "avatar": "🐧",
@@ -1573,9 +1573,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "etnperlong",
-            "createAt": "2024-03-15",
-            "homepage": "https://github.com/etnperlong",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "amazon-seller-support-agent",
             "meta": {
                 "avatar": "💢",
@@ -1590,9 +1590,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "sdhjn19dj1m",
-            "createAt": "2024-03-12",
-            "homepage": "https://github.com/sdhjn19dj1m",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tiktok-script-writer",
             "meta": {
                 "avatar": "https://logodownload.org/wp-content/uploads/2019/08/tiktok-logo-icon.png",
@@ -1609,9 +1609,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-03-09",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gen-z",
             "meta": {
                 "avatar": "💤",
@@ -1628,9 +1628,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccdanpian",
-            "createAt": "2024-03-07",
-            "homepage": "https://github.com/ccdanpian",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "calendar-manager",
             "meta": {
                 "avatar": "📅",
@@ -1647,9 +1647,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-03-06",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "business-email",
             "meta": {
                 "avatar": "💼",
@@ -1666,9 +1666,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-03-06",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "discord-copywriting",
             "meta": {
                 "avatar": "😝",
@@ -1685,9 +1685,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "9Somboon",
-            "createAt": "2024-03-05",
-            "homepage": "https://github.com/9Somboon",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "9-somboon",
             "meta": {
                 "avatar": "📸",
@@ -1705,9 +1705,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SpaceX-Vision",
-            "createAt": "2024-03-05",
-            "homepage": "https://github.com/SpaceX-Vision",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "f-1-bot",
             "meta": {
                 "avatar": "🏎️",
@@ -1722,9 +1722,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SimoMay",
-            "createAt": "2024-03-05",
-            "homepage": "https://github.com/SimoMay",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "pitch-deck",
             "meta": {
                 "avatar": "💼",
@@ -1740,9 +1740,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Ballongknute",
-            "createAt": "2024-03-05",
-            "homepage": "https://github.com/Ballongknute",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "software-development-for-dummies",
             "meta": {
                 "avatar": "👨‍💻",
@@ -1769,9 +1769,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guluahljj",
-            "createAt": "2024-03-04",
-            "homepage": "https://github.com/guluahljj",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-essay",
             "meta": {
                 "avatar": "📝",
@@ -1788,9 +1788,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SimoMay",
-            "createAt": "2024-03-04",
-            "homepage": "https://github.com/SimoMay",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "shaman",
             "meta": {
                 "avatar": "🔮",
@@ -1807,9 +1807,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SimoMay",
-            "createAt": "2024-03-04",
-            "homepage": "https://github.com/SimoMay",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "sous-chef",
             "meta": {
                 "avatar": "👩‍🍳",
@@ -1826,9 +1826,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SimoMay",
-            "createAt": "2024-03-03",
-            "homepage": "https://github.com/SimoMay",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "interview-coach",
             "meta": {
                 "avatar": "🎙️",
@@ -1845,9 +1845,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guluahljj",
-            "createAt": "2024-03-03",
-            "homepage": "https://github.com/guluahljj",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "markdown",
             "meta": {
                 "avatar": "✍️",
@@ -1866,9 +1866,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "hady2010",
-            "createAt": "2024-03-03",
-            "homepage": "https://github.com/hady2010",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "news",
             "meta": {
                 "avatar": "👓",
@@ -1881,9 +1881,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Ballongknute",
-            "createAt": "2024-02-27",
-            "homepage": "https://github.com/Ballongknute",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "domene-no-helpout",
             "meta": {
                 "avatar": "🔏",
@@ -1901,9 +1901,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-02-27",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "soccer",
             "meta": {
                 "avatar": "⚽",
@@ -1920,9 +1920,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Justin3go",
-            "createAt": "2024-02-26",
-            "homepage": "https://github.com/Justin3go",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "prisma",
             "meta": {
                 "avatar": "💾",
@@ -1939,9 +1939,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "nullmastermind",
-            "createAt": "2024-02-25",
-            "homepage": "https://github.com/nullmastermind",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "github-finder",
             "meta": {
                 "avatar": "🔍",
@@ -1958,9 +1958,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "zsio",
-            "createAt": "2024-02-24",
-            "homepage": "https://github.com/zsio",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "variable-naming",
             "meta": {
                 "avatar": "🏷️",
@@ -1975,9 +1975,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2024-02-22",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "lobe-chat-developer-document-writer",
             "meta": {
                 "avatar": "📝",
@@ -1994,9 +1994,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "richards199999",
-            "createAt": "2024-02-21",
-            "homepage": "https://github.com/richards199999",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "causal",
             "meta": {
                 "avatar": "🤠",
@@ -2011,9 +2011,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "pllz7",
-            "createAt": "2024-02-19",
-            "homepage": "https://github.com/pllz7",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "facebook-advertising-writing-expert",
             "meta": {
                 "avatar": "Ⓜ️",
@@ -2030,9 +2030,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "emad-pg",
-            "createAt": "2024-02-19",
-            "homepage": "https://github.com/emad-pg",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "jira-product-manager",
             "meta": {
                 "avatar": "📋",
@@ -2047,9 +2047,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "mikelix",
-            "createAt": "2024-02-19",
-            "homepage": "https://github.com/mikelix",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "think-tank-business-strategy",
             "meta": {
                 "avatar": "🧠",
@@ -2065,9 +2065,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-02-19",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "translation-specialist",
             "meta": {
                 "avatar": "🇪🇸",
@@ -2083,9 +2083,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "fanling",
-            "createAt": "2024-02-18",
-            "homepage": "https://github.com/fanling",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "spi-generator",
             "meta": {
                 "avatar": "🍩",
@@ -2098,9 +2098,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "pllz7",
-            "createAt": "2024-02-14",
-            "homepage": "https://github.com/pllz7",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "copywriting",
             "meta": {
                 "avatar": "✏️",
@@ -2113,9 +2113,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guling-io",
-            "createAt": "2024-02-14",
-            "homepage": "https://github.com/guling-io",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gl-syyy",
             "meta": {
                 "avatar": "🔏",
@@ -2132,9 +2132,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guling-io",
-            "createAt": "2024-02-14",
-            "homepage": "https://github.com/guling-io",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gl-zmtyy",
             "meta": {
                 "avatar": "🪭",
@@ -2151,9 +2151,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "pllz7",
-            "createAt": "2024-02-14",
-            "homepage": "https://github.com/pllz7",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "product-description",
             "meta": {
                 "avatar": "🛒",
@@ -2166,9 +2166,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "pllz7",
-            "createAt": "2024-02-14",
-            "homepage": "https://github.com/pllz7",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "product-reviews",
             "meta": {
                 "avatar": "🛒",
@@ -2181,9 +2181,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "CLOT-LIU",
-            "createAt": "2024-02-10",
-            "homepage": "https://github.com/CLOT-LIU",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "augur",
             "meta": {
                 "avatar": "🔮",
@@ -2198,9 +2198,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-02-10",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "happy-loong-year",
             "meta": {
                 "avatar": "🐉",
@@ -2216,9 +2216,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-09",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "awl-vocab-wizard",
             "meta": {
                 "avatar": "📚",
@@ -2234,9 +2234,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-09",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-proficiency-assessor",
             "meta": {
                 "avatar": "📚",
@@ -2251,9 +2251,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-09",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "glossary-generator",
             "meta": {
                 "avatar": "📚",
@@ -2268,9 +2268,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-09",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "grammar-revision-worksheets",
             "meta": {
                 "avatar": "📚",
@@ -2287,9 +2287,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-09",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "oxford-3000-vocab-generator",
             "meta": {
                 "avatar": "📚",
@@ -2304,9 +2304,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-02-09",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "turkish-language-tutor",
             "meta": {
                 "avatar": "🇹🇷",
@@ -2322,9 +2322,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-08",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "cloze-exercise-generator",
             "meta": {
                 "avatar": "🔠",
@@ -2341,9 +2341,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-08",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "reading-comprehension-exercise-generator",
             "meta": {
                 "avatar": "📚",
@@ -2358,9 +2358,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-08",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "thematic-vocabulary-worksheet-generator",
             "meta": {
                 "avatar": "📚",
@@ -2377,9 +2377,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-08",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "vocabulary-worksheet-wizard",
             "meta": {
                 "avatar": "📚",
@@ -2395,9 +2395,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "bentwnghk",
-            "createAt": "2024-02-07",
-            "homepage": "https://github.com/bentwnghk",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "text-variator",
             "meta": {
                 "avatar": "🎨",
@@ -2412,9 +2412,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Zisan-uzum",
-            "createAt": "2024-02-07",
-            "homepage": "https://github.com/Zisan-uzum",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "turkish-english-translator",
             "meta": {
                 "avatar": "🌐",
@@ -2430,9 +2430,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Justin3go",
-            "createAt": "2024-02-07",
-            "homepage": "https://github.com/Justin3go",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "website-audit-assistant",
             "meta": {
                 "avatar": "🐌",
@@ -2447,9 +2447,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MrHuangJser",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/MrHuangJser",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "can",
             "meta": {
                 "avatar": "👨‍💻",
@@ -2464,9 +2464,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Zisan-uzum",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/Zisan-uzum",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "form-checker",
             "meta": {
                 "avatar": "🔍",
@@ -2483,9 +2483,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "dalefengs",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/dalefengs",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "golang-architect",
             "meta": {
                 "avatar": "👨‍💻",
@@ -2502,9 +2502,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Zisan-uzum",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/Zisan-uzum",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "helps-you-with-your-homework-or-not",
             "meta": {
                 "avatar": "😦",
@@ -2518,9 +2518,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Zisan-uzum",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/Zisan-uzum",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "language-fixer",
             "meta": {
                 "avatar": "☑️",
@@ -2537,9 +2537,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Zisan-uzum",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/Zisan-uzum",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "socratic-teacher",
             "meta": {
                 "avatar": "💡",
@@ -2554,9 +2554,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Zisan-uzum",
-            "createAt": "2024-02-06",
-            "homepage": "https://github.com/Zisan-uzum",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "writing-assistant",
             "meta": {
                 "avatar": "📝",
@@ -2572,9 +2572,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "xuzhen1994",
-            "createAt": "2024-02-03",
-            "homepage": "https://github.com/xuzhen1994",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "dba",
             "meta": {
                 "avatar": "🧢",
@@ -2593,9 +2593,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-02-03",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "word",
             "meta": {
                 "avatar": "📊",
@@ -2612,9 +2612,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Ajasra",
-            "createAt": "2024-01-31",
-            "homepage": "https://github.com/Ajasra",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "sage-pathfinder",
             "meta": {
                 "avatar": "🧠",
@@ -2631,9 +2631,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "undefinedZNN",
-            "createAt": "2024-01-31",
-            "homepage": "https://github.com/undefinedZNN",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "variable-naming-assistant",
             "meta": {
                 "avatar": "💻",
@@ -2648,9 +2648,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-30",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "c-1-level-english",
             "meta": {
                 "avatar": "🗣️",
@@ -2666,9 +2666,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-30",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-a-2-level",
             "meta": {
                 "avatar": "💬",
@@ -2683,9 +2683,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-30",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-c-2-level",
             "meta": {
                 "avatar": "💬",
@@ -2700,9 +2700,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-30",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "entrepreneurship-and-competitiveness-expert",
             "meta": {
                 "avatar": "👨‍💼",
@@ -2719,9 +2719,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-30",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "mathematical-research-advisor",
             "meta": {
                 "avatar": "🧮",
@@ -2738,9 +2738,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-29",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "biskaya",
             "meta": {
                 "avatar": "🌍",
@@ -2757,9 +2757,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-29",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "bizkaia-entrepreneurship-expert",
             "meta": {
                 "avatar": "👨‍💼",
@@ -2791,9 +2791,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-29",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-language-c-1-mastery-coach",
             "meta": {
                 "avatar": "🗣️",
@@ -2810,9 +2810,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-29",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "software-architecture-strategist",
             "meta": {
                 "avatar": "🏗️",
@@ -2829,9 +2829,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "shaoqing404",
-            "createAt": "2024-01-29",
-            "homepage": "https://github.com/shaoqing404",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "xhs-evl-cl",
             "meta": {
                 "avatar": "📕",
@@ -2847,9 +2847,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "coder",
             "meta": {
                 "avatar": "👨‍💻",
@@ -2875,9 +2875,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "doctor",
             "meta": {
                 "avatar": "🧠",
@@ -2894,9 +2894,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-b-2-level",
             "meta": {
                 "avatar": "💬",
@@ -2914,9 +2914,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "geo",
             "meta": {
                 "avatar": "🌍",
@@ -2932,9 +2932,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "language",
             "meta": {
                 "avatar": "🗣️",
@@ -2951,9 +2951,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "learning",
             "meta": {
                 "avatar": "🗣️",
@@ -2968,9 +2968,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "patois",
             "meta": {
                 "avatar": "🇯🇲",
@@ -2987,9 +2987,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "poetry",
             "meta": {
                 "avatar": "📝",
@@ -3006,9 +3006,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "rap",
             "meta": {
                 "avatar": "🎤",
@@ -3025,9 +3025,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-28",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "slang",
             "meta": {
                 "avatar": "💬",
@@ -3042,9 +3042,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-01-27",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "bilibili-agent",
             "meta": {
                 "avatar": "https://bilibili.chat-plugin.lobehub.com/logo.webp",
@@ -3061,9 +3061,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-01-27",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "steam-agent",
             "meta": {
                 "avatar": "https://steam.chat-plugin.lobehub.com/logo.webp",
@@ -3078,9 +3078,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-26",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "chef",
             "meta": {
                 "avatar": "👨‍🍳",
@@ -3097,9 +3097,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-26",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "import-and-export-advisor",
             "meta": {
                 "avatar": "🌍",
@@ -3114,9 +3114,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-01-26",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "openapi-generator",
             "meta": {
                 "avatar": "🐸",
@@ -3132,9 +3132,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Justin3go",
-            "createAt": "2024-01-26",
-            "homepage": "https://github.com/Justin3go",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "shields-io",
             "meta": {
                 "avatar": "📛",
@@ -3152,9 +3152,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-26",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "singer",
             "meta": {
                 "avatar": "🎵",
@@ -3171,9 +3171,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-26",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tax-bot",
             "meta": {
                 "avatar": "📊",
@@ -3190,9 +3190,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "RayGicEFL",
-            "createAt": "2024-01-25",
-            "homepage": "https://github.com/RayGicEFL",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "art-toy-designer",
             "meta": {
                 "avatar": "https://thumbs2.imgbox.com/4c/db/4tG11pyy_t.png",
@@ -3206,9 +3206,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-25",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "react-native",
             "meta": {
                 "avatar": "👩‍💻",
@@ -3225,9 +3225,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "muxinxy",
-            "createAt": "2024-01-25",
-            "homepage": "https://github.com/muxinxy",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "summary-assistant",
             "meta": {
                 "avatar": "📚",
@@ -3243,9 +3243,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "AIConductor",
-            "createAt": "2024-01-24",
-            "homepage": "https://github.com/AIConductor",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "intention-resonates-gpt",
             "meta": {
                 "avatar": "https://images2.imgbox.com/15/8c/9aVHrtwP_o.jpeg",
@@ -3259,9 +3259,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "daniel-jojo",
-            "createAt": "2024-01-23",
-            "homepage": "https://github.com/daniel-jojo",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tech-lawyer",
             "meta": {
                 "avatar": "👩‍⚖️",
@@ -3278,9 +3278,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guluahljj",
-            "createAt": "2024-01-22",
-            "homepage": "https://github.com/guluahljj",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "shop",
             "meta": {
                 "avatar": "🛍️",
@@ -3298,9 +3298,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "accounting",
             "meta": {
                 "avatar": "💼",
@@ -3316,9 +3316,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "business-guru",
             "meta": {
                 "avatar": "📊",
@@ -3331,9 +3331,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guluahljj",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/guluahljj",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "diy",
             "meta": {
                 "avatar": "🔧",
@@ -3350,9 +3350,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "finnance",
             "meta": {
                 "avatar": "💼",
@@ -3365,9 +3365,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "sheepbox8646",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/sheepbox8646",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ielts-mentor",
             "meta": {
                 "avatar": "🧑‍🏫",
@@ -3383,9 +3383,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guluahljj",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/guluahljj",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "nahida",
             "meta": {
                 "avatar": "😘",
@@ -3403,9 +3403,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MYSeaIT",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/MYSeaIT",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "teacher",
             "meta": {
                 "avatar": "🧑‍🏫",
@@ -3420,9 +3420,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "REXY-STUDIO",
-            "createAt": "2024-01-21",
-            "homepage": "https://github.com/REXY-STUDIO",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "zh-jp-translate-expert",
             "meta": {
                 "avatar": "🇨🇳🇯🇵",
@@ -3437,9 +3437,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "110rever",
-            "createAt": "2024-01-19",
-            "homepage": "https://github.com/110rever",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "prompt-gpt",
             "meta": {
                 "avatar": "😍",
@@ -3460,9 +3460,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "110rever",
-            "createAt": "2024-01-19",
-            "homepage": "https://github.com/110rever",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tech-explorer-ai",
             "meta": {
                 "avatar": "🔍",
@@ -3480,9 +3480,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Wutpeach",
-            "createAt": "2024-01-18",
-            "homepage": "https://github.com/Wutpeach",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ae-script-development",
             "meta": {
                 "avatar": "🧏",
@@ -3504,9 +3504,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "110rever",
-            "createAt": "2024-01-18",
-            "homepage": "https://github.com/110rever",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "code-companion",
             "meta": {
                 "avatar": "👨‍💻",
@@ -3521,9 +3521,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Wutpeach",
-            "createAt": "2024-01-16",
-            "homepage": "https://github.com/Wutpeach",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "unreal-engine-development-engineer",
             "meta": {
                 "avatar": "🥸",
@@ -3540,9 +3540,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "HerIsDia",
-            "createAt": "2024-01-15",
-            "homepage": "https://github.com/HerIsDia",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "chad",
             "meta": {
                 "avatar": "🤡",
@@ -3556,9 +3556,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Soyeb",
-            "createAt": "2024-01-15",
-            "homepage": "https://github.com/sekhsoyebali",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "seo-optimized-blog",
             "meta": {
                 "avatar": "https://chat.droidsize.com/_next/image?url=https%3A%2F%2Fregistry.npmmirror.com%2F%40lobehub%2Fassets-emoji%2F1.3.0%2Ffiles%2Fassets%2Fwriting-hand.webp&w=96&q=75",
@@ -3578,9 +3578,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "fmaxyou",
-            "createAt": "2024-01-11",
-            "homepage": "https://github.com/fmaxyou",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-teacher",
             "meta": {
                 "avatar": "📚",
@@ -3595,9 +3595,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "amitalokbera",
-            "createAt": "2024-01-11",
-            "homepage": "https://github.com/amitalokbera",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "life-decision-advisor",
             "meta": {
                 "avatar": "🧘‍♂️",
@@ -3610,9 +3610,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "McKinleyLu",
-            "createAt": "2024-01-10",
-            "homepage": "https://github.com/McKinleyLu",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "cs-research-paper",
             "meta": {
                 "avatar": "🏛️",
@@ -3628,9 +3628,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "mushan0x0",
-            "createAt": "2024-01-09",
-            "homepage": "https://github.com/mushan0x0",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "emoji-generate",
             "meta": {
                 "avatar": "😊",
@@ -3645,9 +3645,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Ajasra",
-            "createAt": "2024-01-08",
-            "homepage": "https://github.com/Ajasra",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "personal-growth-coach",
             "meta": {
                 "avatar": "🧑‍🏫",
@@ -3664,9 +3664,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2024-01-05",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "kpi-hero",
             "meta": {
                 "avatar": "🦸",
@@ -3684,9 +3684,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Justin3go",
-            "createAt": "2024-01-05",
-            "homepage": "https://github.com/Justin3go",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "svg-flowchart-explanation-assistant",
             "meta": {
                 "avatar": "🌟",
@@ -3701,9 +3701,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "CaoYunzhou",
-            "createAt": "2024-01-05",
-            "homepage": "https://github.com/CaoYunzhou",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "write-report-assistant-development",
             "meta": {
                 "avatar": "📓",
@@ -3719,9 +3719,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2024-01-03",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "react-three-3-d-expert",
             "meta": {
                 "avatar": "🎥",
@@ -3738,9 +3738,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "cm2457618290",
-            "createAt": "2024-01-02",
-            "homepage": "https://github.com/cm2457618290",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "amazon",
             "meta": {
                 "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/1200px-Amazon_icon.svg.png",
@@ -3753,9 +3753,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aitorroma",
-            "createAt": "2024-01-02",
-            "homepage": "https://github.com/aitorroma",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "generador-examenes",
             "meta": {
                 "avatar": "📚",
@@ -3770,9 +3770,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ljr1314",
-            "createAt": "2024-01-02",
-            "homepage": "https://github.com/ljr1314",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ljrwwjl-development",
             "meta": {
                 "avatar": "🎓",
@@ -3789,9 +3789,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "richards199999",
-            "createAt": "2023-12-30",
-            "homepage": "https://github.com/richards199999",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "prompt-composition",
             "meta": {
                 "avatar": "🎨",
@@ -3806,9 +3806,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "richards199999",
-            "createAt": "2023-12-30",
-            "homepage": "https://github.com/richards199999",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "toefl-writing-tutor",
             "meta": {
                 "avatar": "📝",
@@ -3822,9 +3822,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "amitalokbera",
-            "createAt": "2023-12-27",
-            "homepage": "https://github.com/amitalokbera",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "deployment-agent",
             "meta": {
                 "avatar": "🚢",
@@ -3839,9 +3839,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "caoyang2002",
-            "createAt": "2023-12-27",
-            "homepage": "https://github.com/caoyang2002",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "thesis-overview",
             "meta": {
                 "avatar": "🗿",
@@ -3856,9 +3856,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "doresu",
-            "createAt": "2023-12-27",
-            "homepage": "https://github.com/doresu",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "to-local-english",
             "meta": {
                 "avatar": "👱",
@@ -3874,9 +3874,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Feliks151450",
-            "createAt": "2023-12-26",
-            "homepage": "https://github.com/Feliks151450",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "academic-paragraph-refiner",
             "meta": {
                 "avatar": "📝",
@@ -3891,9 +3891,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "kamaravichow",
-            "createAt": "2023-12-25",
-            "homepage": "https://github.com/kamaravichow",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "flutter-dev",
             "meta": {
                 "avatar": "📱",
@@ -3910,9 +3910,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "alissonryan",
-            "createAt": "2023-12-20",
-            "homepage": "https://github.com/alissonryan",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "facebook-ads-expert",
             "meta": {
                 "avatar": "🤹‍♀️",
@@ -3927,9 +3927,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccdanpian",
-            "createAt": "2023-12-19",
-            "homepage": "https://github.com/ccdanpian",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "dream-painter",
             "meta": {
                 "avatar": "😴",
@@ -3943,9 +3943,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccdanpian",
-            "createAt": "2023-12-19",
-            "homepage": "https://github.com/ccdanpian",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "news-hub",
             "meta": {
                 "avatar": "🗞️",
@@ -3960,9 +3960,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccsen",
-            "createAt": "2023-12-19",
-            "homepage": "https://github.com/ccsen",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "research-assistant",
             "meta": {
                 "avatar": "🔬",
@@ -3979,9 +3979,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccdanpian",
-            "createAt": "2023-12-19",
-            "homepage": "https://github.com/ccdanpian",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "travel-assistant",
             "meta": {
                 "avatar": "🥾",
@@ -3995,9 +3995,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "almaziphone",
-            "createAt": "2023-12-16",
-            "homepage": "https://github.com/almaziphone",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "congratulations-with-smileys",
             "meta": {
                 "avatar": "🎁",
@@ -4012,9 +4012,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ccsen",
-            "createAt": "2023-12-16",
-            "homepage": "https://github.com/ccsen",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "estate-agency",
             "meta": {
                 "avatar": "🏚️",
@@ -4032,9 +4032,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "SuperLande",
-            "createAt": "2023-12-16",
-            "homepage": "https://github.com/SuperLande",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "yundaodev-1",
             "meta": {
                 "avatar": "👨‍🎓",
@@ -4047,9 +4047,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "thelapyae",
-            "createAt": "2023-12-15",
-            "homepage": "https://github.com/thelapyae",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "book-summary-agent",
             "meta": {
                 "avatar": "📚",
@@ -4065,9 +4065,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Sheldon23357",
-            "createAt": "2023-12-15",
-            "homepage": "https://github.com/Sheldon23357",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "detective-game-assistant",
             "meta": {
                 "avatar": "🕵️",
@@ -4084,9 +4084,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Sheldon23357",
-            "createAt": "2023-12-15",
-            "homepage": "https://github.com/Sheldon23357",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "detective-novelist",
             "meta": {
                 "avatar": "🏴‍☠️",
@@ -4103,9 +4103,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "nagaame",
-            "createAt": "2023-12-15",
-            "homepage": "https://github.com/nagaame",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "rust-assistant",
             "meta": {
                 "avatar": "🦀",
@@ -4122,9 +4122,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "MakeTooRRSS",
-            "createAt": "2023-12-14",
-            "homepage": "https://github.com/MakeTooRRSS",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "community-manager",
             "meta": {
                 "avatar": "https://cdn-icons-png.flaticon.com/512/2386/2386175.png",
@@ -4139,9 +4139,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ShinChven",
-            "createAt": "2023-12-14",
-            "homepage": "https://github.com/ShinChven",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "stable-diffusion",
             "meta": {
                 "avatar": "🦄",
@@ -4154,9 +4154,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ghyghoo8",
-            "createAt": "2023-12-13",
-            "homepage": "https://github.com/ghyghoo8",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "dream-psychoanalyst",
             "meta": {
                 "avatar": "😈",
@@ -4171,9 +4171,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "ghyghoo8",
-            "createAt": "2023-12-13",
-            "homepage": "https://github.com/ghyghoo8",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "payroll-game",
             "meta": {
                 "avatar": "💰",
@@ -4188,9 +4188,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Igroshka",
-            "createAt": "2023-12-12",
-            "homepage": "https://github.com/Igroshka",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gradio-coding",
             "meta": {
                 "avatar": "💻",
@@ -4205,9 +4205,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "caolixiang",
-            "createAt": "2023-12-12",
-            "homepage": "https://github.com/caolixiang",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "translate-eng-expert",
             "meta": {
                 "avatar": "🕵️",
@@ -4222,9 +4222,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "luciouskami",
-            "createAt": "2023-12-11",
-            "homepage": "https://github.com/luciouskami",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "github-copilot",
             "meta": {
                 "avatar": "🐙",
@@ -4238,9 +4238,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "mushan0x0",
-            "createAt": "2023-12-11",
-            "homepage": "https://github.com/mushan0x0",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "pollinations-drawing",
             "meta": {
                 "avatar": "🎨",
@@ -4254,9 +4254,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Igroshka",
-            "createAt": "2023-12-08",
-            "homepage": "https://github.com/Igroshka",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "http-request-master",
             "meta": {
                 "avatar": "💻",
@@ -4272,9 +4272,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Igroshka",
-            "createAt": "2023-12-08",
-            "homepage": "https://github.com/Igroshka",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "recipe-generator",
             "meta": {
                 "avatar": "🍳",
@@ -4291,9 +4291,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Igroshka",
-            "createAt": "2023-12-07",
-            "homepage": "https://github.com/Igroshka",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "friend-developer",
             "meta": {
                 "avatar": "👨‍💻",
@@ -4312,9 +4312,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "jjy1000",
-            "createAt": "2023-12-04",
-            "homepage": "https://github.com/jjy1000",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "mrfeynman",
             "meta": {
                 "avatar": "👨",
@@ -4327,9 +4327,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "y22emc2",
-            "createAt": "2023-12-02",
-            "homepage": "https://github.com/y22emc2",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "organic-chemistry-researcher",
             "meta": {
                 "avatar": "🔬",
@@ -4346,9 +4346,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-11-22",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "js-code-quality",
             "meta": {
                 "avatar": "🧹",
@@ -4363,9 +4363,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-11-22",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "lobe-chat-unit-test-dev",
             "meta": {
                 "avatar": "🧪",
@@ -4381,9 +4381,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "barryWang12138",
-            "createAt": "2023-11-22",
-            "homepage": "https://github.com/barryWang12138",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "q-a-helper",
             "meta": {
                 "avatar": "😇",
@@ -4397,9 +4397,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "mushan0x0",
-            "createAt": "2023-11-21",
-            "homepage": "https://github.com/mushan0x0",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "ai-0x0-old-friends",
             "meta": {
                 "avatar": "🤷‍♂️",
@@ -4415,9 +4415,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aihoom",
-            "createAt": "2023-11-17",
-            "homepage": "https://github.com/aihoom",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tik-tok-director",
             "meta": {
                 "avatar": "🎬",
@@ -4432,9 +4432,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "tcmonster",
-            "createAt": "2023-11-16",
-            "homepage": "https://github.com/tcmonster",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "co-agent",
             "meta": {
                 "avatar": "🧙🏾‍♂️",
@@ -4450,9 +4450,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "cloverfield11",
-            "createAt": "2023-11-15",
-            "homepage": "https://github.com/cloverfield11",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "fs-dev",
             "meta": {
                 "avatar": "💻",
@@ -4469,9 +4469,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "yingxirz",
-            "createAt": "2023-11-15",
-            "homepage": "https://github.com/yingxirz",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "graphic-creativity",
             "meta": {
                 "avatar": "🪄",
@@ -4487,9 +4487,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "skyf0cker",
-            "createAt": "2023-11-15",
-            "homepage": "https://github.com/skyf0cker",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tailwind-wizard",
             "meta": {
                 "avatar": "🧙",
@@ -4504,9 +4504,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aihoom",
-            "createAt": "2023-11-14",
-            "homepage": "https://github.com/aihoom",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "big-daddy",
             "meta": {
                 "avatar": "👨🏻‍🦳",
@@ -4519,9 +4519,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "tcmonster",
-            "createAt": "2023-11-14",
-            "homepage": "https://github.com/tcmonster",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "en-cn-translator",
             "meta": {
                 "avatar": "🌐",
@@ -4536,9 +4536,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aihoom",
-            "createAt": "2023-11-14",
-            "homepage": "https://github.com/aihoom",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "mid-journey-prompt",
             "meta": {
                 "avatar": "🏜️",
@@ -4552,9 +4552,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "aihoom",
-            "createAt": "2023-11-14",
-            "homepage": "https://github.com/aihoom",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "s-rtranslation",
             "meta": {
                 "avatar": "🔬",
@@ -4568,9 +4568,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "Ruler27",
-            "createAt": "2023-11-11",
-            "homepage": "https://github.com/Ruler27",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "academic-writing-eb",
             "meta": {
                 "avatar": "📇",
@@ -4588,9 +4588,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-11-02",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "sketch-changelog-highlighter",
             "meta": {
                 "avatar": "💠",
@@ -4607,9 +4607,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "cake79",
-            "createAt": "2023-10-26",
-            "homepage": "https://github.com/cake79",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "tqg-20231026",
             "meta": {
                 "avatar": "🤔",
@@ -4623,9 +4623,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "choldrim",
-            "createAt": "2023-10-23",
-            "homepage": "https://github.com/choldrim",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "graph-generator",
             "meta": {
                 "avatar": "📊",
@@ -4638,9 +4638,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "yingxirz",
-            "createAt": "2023-10-18",
-            "homepage": "https://github.com/yingxirz",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "meaningful-name",
             "meta": {
                 "avatar": "🪆",
@@ -4654,9 +4654,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "guowc3456",
-            "createAt": "2023-10-11",
-            "homepage": "https://github.com/guowc3456",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "xiaohongshu-style-writer",
             "meta": {
                 "avatar": "📕",
@@ -4672,9 +4672,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "宝玉",
-            "createAt": "2023-10-07",
-            "homepage": "https://twitter.com/dotey",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "english-news-translator",
             "meta": {
                 "avatar": "📰",
@@ -4688,9 +4688,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-10-07",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "gpt-agent-prompt-improver",
             "meta": {
                 "avatar": "🦯",
@@ -4703,9 +4703,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "dcityteg",
-            "createAt": "2023-10-06",
-            "homepage": "https://github.com/dcityteg",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "c-code-development",
             "meta": {
                 "avatar": "😀",
@@ -4718,9 +4718,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-10-01",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "typescript-jsdoc",
             "meta": {
                 "avatar": "📝",
@@ -4734,9 +4734,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "yingxirz",
-            "createAt": "2023-09-29",
-            "homepage": "https://github.com/yingxirz",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "logo-creativity",
             "meta": {
                 "avatar": "🧚‍♀️",
@@ -4753,9 +4753,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "laikedou",
-            "createAt": "2023-09-27",
-            "homepage": "https://github.com/laikedou",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "swagger-api-to-types",
             "meta": {
                 "avatar": "🔌",
@@ -4772,9 +4772,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-11",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "naming-master",
             "meta": {
                 "avatar": "👺",
@@ -4788,9 +4788,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "api-docs-writer",
             "meta": {
                 "title": "API 文档优化专家",
@@ -4807,9 +4807,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "better-ux-writer",
             "meta": {
                 "title": "UX Writer",
@@ -4825,9 +4825,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "conceptual-abstractor",
             "meta": {
                 "title": "抽象概念实体化表达大师",
@@ -4845,9 +4845,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "content-searcher",
             "meta": {
                 "title": "信息整理大师",
@@ -4862,9 +4862,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "dva-to-zustand",
             "meta": {
                 "avatar": "🧸",
@@ -4882,9 +4882,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "frontend-architect",
             "meta": {
                 "title": "前端研发架构师",
@@ -4903,9 +4903,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "frontend-test-analyzer",
             "meta": {
                 "title": "前端 TypeScript 单测专家",
@@ -4921,9 +4921,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "js-to-ts",
             "meta": {
                 "title": "JS 代码转 TS 专家",
@@ -4940,9 +4940,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "metaphor-ux-writer",
             "meta": {
                 "title": "UX Writer",
@@ -4959,9 +4959,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "react-cc-to-fc",
             "meta": {
                 "title": "React Class 组件转 FC 组件",
@@ -4978,9 +4978,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "title-expansion-writer",
             "meta": {
                 "title": "标题扩写专家",
@@ -4996,9 +4996,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "url-summary",
             "meta": {
                 "title": "网页内容总结专家",
@@ -5014,9 +5014,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-10",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "zustand-reducer",
             "meta": {
                 "title": "Zustand reducer 专家",
@@ -5035,9 +5035,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-08",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "deep-think",
             "meta": {
                 "avatar": "🧠",
@@ -5051,9 +5051,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "arvinxx",
-            "createAt": "2023-09-08",
-            "homepage": "https://github.com/arvinxx",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "markdown-feature-polisher",
             "meta": {
                 "avatar": "💅",
@@ -5068,9 +5068,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "agent-prompt-improver",
             "meta": {
                 "title": "助手提示词优化",
@@ -5084,9 +5084,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "character-roleplay",
             "meta": {
                 "avatar": "🎭",
@@ -5101,9 +5101,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "coding-wizard",
             "meta": {
                 "avatar": "🧙‍♂️",
@@ -5118,9 +5118,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "essay-improver",
             "meta": {
                 "avatar": "🖋️",
@@ -5136,9 +5136,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "grammar-corrector",
             "meta": {
                 "avatar": "🧐",
@@ -5153,9 +5153,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "resume-editing",
             "meta": {
                 "avatar": "📇",
@@ -5170,9 +5170,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "startup-plan",
             "meta": {
                 "avatar": "🕓",
@@ -5187,9 +5187,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-07",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "web-development",
             "meta": {
                 "avatar": "💻",
@@ -5204,9 +5204,9 @@
             "schemaVersion": 1
         },
         {
-            "author": "canisminor1990",
-            "createAt": "2023-09-01",
-            "homepage": "https://github.com/canisminor1990",
+            "author": "第三研究室",
+            "createAt": "2024-06-16",
+            "homepage": "http://localhost:12345",
             "identifier": "stable-diffusion-prompt",
             "meta": {
                 "title": "Stable Diffusion 提示词专家",
